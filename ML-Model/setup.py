@@ -1,5 +1,5 @@
 from setuptools import setup
-##addn  files here
+##addn
 with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
