@@ -6,7 +6,7 @@
 ### How does it Helps to Solve the Problem: - 
 #### ML-Model: Utilizes advanced ML and DL algorithms to offer personalized content recommendations.
 
-<img src="6.jpeg" alt="workflow" width="70%">
+<img src="1.png" alt="workflow" width="70%">
 
 #### Chatbot: Helping by giving solutions and generating personalised movie ideas. 
 
