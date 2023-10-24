@@ -2,6 +2,23 @@
 
 <img src="demo/6.jpeg" alt="workflow" width="70%">
 
+How it Helps to Solve the Problem: - 
+Utilizes advanced ML and DL algorithms to offer personalized content recommendations.
+Implements family-friendly content filtering for a safer viewing experience. 
+Introducing innovative monetization strategies. 
+
+Impact Metrics: - 
+User engagement and satisfaction.
+Conversion rates for premium content subscriptions. 
+Number of content partnerships.
+Reduction in complaints about inappropriate content. 
+
+Frameworks/Technologies Stacks: - 
+ML/DL & AI Frameworks: TensorFlow, PyTorch, Llama2, Langchain 
+NLP Libraries: spaCy, NLTK. 
+Cloud Services: AWS, Azure, or Google Cloud. 
+Voice Recognition: Integration of voice-activated commands using APIs like Amazon Alexa.
+
 
 # Types of Recommendation System :
 
@@ -87,7 +104,7 @@ Clone the repository
 
 ```bash
 https://github.com/Amazon-HackOn/FireTv_Personalized-recommendation.git
-
+```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
